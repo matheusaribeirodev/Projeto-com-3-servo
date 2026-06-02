@@ -6,7 +6,7 @@ Markdown
 [cite_start]Este projeto usa uma placa ESP32 com **MicroPython** para controlar a abertura e o fecho de 3 portas (Informática, Professores e Almoxarifado) usando servomotores, LEDs e um display OLED[cite: 3].
 
 <p align="center">
-  <img src=https://github.com/matheusaribeirodev/Projeto-com-3-servo/blob/main/Sem%20t%C3%ADtulo.png
+  <img src=https://github.com/matheusaribeirodev/Projeto-com-3-servo/blob/main/tw.png
 </p>
 f
 
